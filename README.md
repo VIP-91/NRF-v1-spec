@@ -5,8 +5,7 @@
   <h3>Standardized · Simple · Easy to maintain</h3>
 
   <p>
-    <img src="https://img.shields.io/badge/mcfunction-1.12.2-blue
-    " alt="mcfunction">
+    <img src="https://img.shields.io/badge/mcfunction-1.12.2-blue?logo=gnubash&logoColor=white" alt="mcfunction">
     <img src="https://img.shields.io/badge/license-MIT-green" alt="License">
     <br>
     <a href="https://picoclaw.io"><img src="https://img.shields.io/badge/Website-picoclaw.io-blue?style=flat&logo=google-chrome&logoColor=white" alt="Website"></a>
