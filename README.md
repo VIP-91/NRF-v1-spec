@@ -8,8 +8,7 @@
     <img src="https://img.shields.io/badge/mcfunction-1.12.2-blue?logo=gnubash&logoColor=white" alt="mcfunction">
     <img src="https://img.shields.io/badge/license-MIT-green" alt="License">
     <br>
-    <a href="https://picoclaw.io"><img src="https://img.shields.io/badge/Website-picoclaw.io-blue?style=flat&logo=google-chrome&logoColor=white" alt="Website"></a>
-    <a href="https://x.com/SipeedIO"><img src="https://img.shields.io/badge/X_(Twitter)-SipeedIO-black?style=flat&logo=x&logoColor=white" alt="Twitter"></a>
+    <a href="https://caolvchong0721.top"><img src="https://img.shields.io/badge/Website-caolvchong0721.top-blue?style=flat&logo=google-chrome&logoColor=white" alt="Website"></a>
   </p>
 
  [中文](README.zh.md) | [日本語](README.ja.md) | **English**
