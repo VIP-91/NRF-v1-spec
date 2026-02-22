@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>NRF-spec: NetEase Rental Functions specification</h1>
+  <h1>NRF-v1-spec: NetEase Rental Functions specification</h1>
 
   <h3>Standard · Simple · Easy to maintain</h3>
 
@@ -16,6 +16,6 @@
 
 ---
 
-   🔧 NRF-spec is a specification for NetEase Rental Functions, make mcfunctions easier to use. It is designed for NetEase's 1.12.2 version server.
+   🔧 NRF-v1-spec is a specification for NetEase Rental Functions, make mcfunctions easier to use. It is designed for NetEase's 1.12.2 version server.
 
-   ⚡️ The specification aims to make functions easier to maintain and extend, while also specifying the positions of some specific instructions, which facilitates quick location and modification. It also facilitates integration with specific obfuscators for obfuscation.
+   ⚡️ The specification aims to make mcfunctions easier to maintain and extend, while also specifying the positions of some specific instructions, which facilitates quick location and modification. It also facilitates integration with specific obfuscators for obfuscation.
