@@ -16,8 +16,16 @@
 
 ---
 
-   🔧 NRF-v1-spec is a specification for NetEase Rental Functions, make mcfunctions easier to use. It is designed for NetEase's 1.12.2 version server.
+🔧 NRF-v1-spec is a specification for NetEase Rental Functions, make mcfunctions easier to use. It is designed for NetEase's 1.12.2 version server.
 
-   ⚡️ The specification aims to make mcfunctions easier to maintain and extend, while also specifying the positions of some specific instructions, which facilitates quick location and modification. It also facilitates integration with specific obfuscators for obfuscation.
+⚡️ The specification aims to make mcfunctions easier to maintain and extend, while also specifying the positions of some specific instructions, which facilitates quick location and modification. It also facilitates integration with specific obfuscators for obfuscation.
 
-   Warning: Since the specification is still in development, some content may be inaccurate.
+Warning: Since the specification is still in development, some content may be inaccurate.
+   
+## 1 Naming Convention
+> [!CAUTION]
+> **🚨 Important Declaration**
+>
+> - **Do not use non-English characters to name function files:** Using non-English characters or special characters to name function files may cause **unable to import** the archive problem, and the NetEase launcher will directly report an error. **Folder names also cannot contain non-English characters.**
+> - **Do not use non-English characters to name integral versions:** It is not recommended to use non-English characters to name integral versions, as it may cause some unknown problems.
+> - **Strictly follow the correct archive format:** Make sure that each file is placed in the correct position.
